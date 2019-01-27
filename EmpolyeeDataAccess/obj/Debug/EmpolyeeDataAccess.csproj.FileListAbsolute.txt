@@ -1,0 +1,10 @@
+c:\Users\Dona\documents\visual studio 2015\Projects\ApiDemo\EmpolyeeDataAccess\bin\Debug\EmpolyeeDataAccess.dll.config
+c:\Users\Dona\documents\visual studio 2015\Projects\ApiDemo\EmpolyeeDataAccess\bin\Debug\EmpolyeeDataAccess.dll
+c:\Users\Dona\documents\visual studio 2015\Projects\ApiDemo\EmpolyeeDataAccess\bin\Debug\EmpolyeeDataAccess.pdb
+c:\Users\Dona\documents\visual studio 2015\Projects\ApiDemo\EmpolyeeDataAccess\bin\Debug\EntityFramework.dll
+c:\Users\Dona\documents\visual studio 2015\Projects\ApiDemo\EmpolyeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\Dona\documents\visual studio 2015\Projects\ApiDemo\EmpolyeeDataAccess\bin\Debug\EntityFramework.xml
+c:\Users\Dona\documents\visual studio 2015\Projects\ApiDemo\EmpolyeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\Dona\documents\visual studio 2015\Projects\ApiDemo\EmpolyeeDataAccess\obj\Debug\EmpolyeeDataAccess.csprojResolveAssemblyReference.cache
+c:\Users\Dona\documents\visual studio 2015\Projects\ApiDemo\EmpolyeeDataAccess\obj\Debug\EmpolyeeDataAccess.dll
+c:\Users\Dona\documents\visual studio 2015\Projects\ApiDemo\EmpolyeeDataAccess\obj\Debug\EmpolyeeDataAccess.pdb
